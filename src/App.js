@@ -1,5 +1,6 @@
-import './App.scss'
-import { ItemListContainer } from './components/ItemListContainer/ItemListContainer'
+import './App.scss';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import { ItemListContainer } from './components/ItemListContainer/ItemListContainer';
 import { NavBar } from "./components/NavBar/NavBar";
 
 
